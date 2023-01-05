@@ -1,0 +1,28 @@
+{
+   "count":3,
+   "next":null,
+   "previous":null,
+   "results":[
+      {
+         "id":1,
+         "email":"ram@gmail.com",
+         "phone":"+9779841123456",
+         "username":"ram",
+         "given_name":"Ram Sharma"
+      },
+      {
+         "id":2,
+         "email":"hari@gmail.com",
+         "phone":"+9779841123457",
+         "username":"hari",
+         "given_name":"Hari Shankar"
+      },
+      {
+         "id":3,
+         "email":"krishna@gmail.com",
+         "phone":"+9779841123458",
+         "username":"krishna",
+         "given_name":"Krishna Bhakta"
+      }
+   ]
+}
